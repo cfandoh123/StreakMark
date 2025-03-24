@@ -17,8 +17,6 @@ StreakMark is a minimal SwiftUI habit tracker app that helps you stay motivated 
 
 ## Screenshots
 
-*Add your screenshots here to show off the app's design and functionality!*
-
 ![StreakMark Screenshot](screenshot.png)
 
 ---
